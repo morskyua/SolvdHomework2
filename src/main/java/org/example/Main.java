@@ -10,12 +10,14 @@ import org.example.shop.payment.CreditCardPayment;
 import org.example.shop.payment.PayPalPayment;
 import org.example.shop.payment.Payment;
 import org.example.shop.products.*;
-import org.example.shop.shipping.ExpressShipping;
+import org.example.shop.shipping.CourierShipping;
 import org.example.shop.shipping.Shipping;
-import org.example.shop.shipping.StandardShipping;
+import org.example.shop.shipping.PickUp;
 import org.example.shop.user.Customer;
 import org.example.shop.user.ShopWorker;
 import org.example.shop.user.User;
+
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
@@ -36,15 +38,15 @@ public class Main {
         PayPalPayment payPalPayment = new PayPalPayment(123, "asadaa@gmail.com");
         CashPayment cashPayment = new CashPayment(20, 2);
 
-        Shipping shipping = new Shipping("12312312323213");
-        StandardShipping standardShipping = new StandardShipping("1312312312321", 4);
-        ExpressShipping expressShipping = new ExpressShipping("1312312312", 2);
+        Shipping shipping = new Shipping("12312312323213", 3);
+        PickUp pickUp = new PickUp("1312312312321", 4, "amazon");
+        CourierShipping courierShipping = new CourierShipping("1312312312", 2, "Boston");
 
-        Order order = new Order(131231, "John");
+        Order order = new Order(131231, "John", new ArrayList<>());
         OrderItem orderItem = new OrderItem("phone", 1);
 
         Discount discount = new Discount(5);
-        VIPDiscount vipDiscount = new VIPDiscount(5, "vip customer");
+        VIPDiscount vipDiscount = new VIPDiscount(5, 5);
 
     }
 }

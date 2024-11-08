@@ -8,5 +8,6 @@ public class Electronics extends Product {
         this.brand = brand;
     }
 
-    public Electronics() {}
+    public Electronics() {
+    }
 }

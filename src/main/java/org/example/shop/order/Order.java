@@ -1,12 +1,24 @@
 package org.example.shop.order;
 
+import java.util.List;
+
 public class Order {
     private int orderId;
     private String customer;
+    private List<OrderItem> items;
 
-    public Order(int orderId, String customer) {
+    public List<OrderItem> getItems() {
+        return items;
+    }
+
+    public void setItems(List<OrderItem> items) {
+        this.items = items;
+    }
+
+    public Order(int orderId, String customer, List<OrderItem> items) {
         this.orderId = orderId;
         this.customer = customer;
+        this.items = items;
     }
 
     public Order() {

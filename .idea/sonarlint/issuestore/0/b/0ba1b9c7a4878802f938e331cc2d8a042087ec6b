@@ -1,81 +1,81 @@
 
-\
-java:S1854/"?Remove this useless assignment to local variable "vipDiscount".(ü™Ÿ¹8öÃÚŞ°2
-^
-java:S1854."<Remove this useless assignment to local variable "discount".(ÑûÃšşÿÿÿÿ8÷ÃÚŞ°2
-_
-java:S1854,"=Remove this useless assignment to local variable "orderItem".(ô­ÛÕşÿÿÿÿ8÷ÃÚŞ°2
-[
-java:S1854+"9Remove this useless assignment to local variable "order".(ŠóÑ®øÿÿÿÿ8÷ÃÚŞ°2
-`
-java:S1854)"CRemove this useless assignment to local variable "expressShipping".(¼Ÿü±8÷ÃÚŞ°2
-f
-java:S1854("DRemove this useless assignment to local variable "standardShipping".(Â®ÓÙûÿÿÿÿ8÷ÃÚŞ°2
-^
-java:S1854'"<Remove this useless assignment to local variable "shipping".(ÓÏ§ùÿÿÿÿ8÷ÃÚŞ°2
-a
-java:S1854%"?Remove this useless assignment to local variable "cashPayment".(˜ÑìÃùÿÿÿÿ8÷ÃÚŞ°2
-c
-java:S1854$"ARemove this useless assignment to local variable "payPalPayment".(î—»€ùÿÿÿÿ8÷ÃÚŞ°2
-a
-java:S1854#"ERemove this useless assignment to local variable "creditCardPayment".(ÈŒË68÷ÃÚŞ°2
-]
-java:S1854"";Remove this useless assignment to local variable "payment".(Ò»Š³ûÿÿÿÿ8÷ÃÚŞ°2
-_
-java:S1854 "=Remove this useless assignment to local variable "furniture".(¼£ øÿÿÿÿÿ8÷ÃÚŞ°2
-d
-java:S1854"BRemove this useless assignment to local variable "organicProduct".(š¯ë­ùÿÿÿÿ8÷ÃÚŞ°2
-a
-java:S1854"?Remove this useless assignment to local variable "electronics".(ÏÕ¥Öÿÿÿÿÿ8÷ÃÚŞ°2
-^
-java:S1854"<Remove this useless assignment to local variable "clothing".(¼Ûÿÿÿÿÿÿ8÷ÃÚŞ°2
-X
-java:S1854";Remove this useless assignment to local variable "product".(íÙÒÛ8÷ÃÚŞ°2
-^
-java:S1854"<Remove this useless assignment to local variable "customer".(ÇÃ°âüÿÿÿÿ8÷ÃÚŞ°2
-[
-java:S1854"9Remove this useless assignment to local variable "admin".(Òöÿğúÿÿÿÿ8÷ÃÚŞ°2
-U
-java:S1854"8Remove this useless assignment to local variable "user".(­‚èü8÷ÃÚŞ°2
-U
-java:S1854"8Remove this useless assignment to local variable "shop".(ö™‘ 8÷ÃÚŞ°2
-F
-java:S1481")Remove this unused "shop" local variable.(ö™‘ 8ùÃÚŞ°2
-F
-java:S1481")Remove this unused "user" local variable.(­‚èü8ùÃÚŞ°2
-L
-java:S1481"*Remove this unused "admin" local variable.(Òöÿğúÿÿÿÿ8ùÃÚŞ°2
-O
-java:S1481"-Remove this unused "customer" local variable.(ÇÃ°âüÿÿÿÿ8ùÃÚŞ°2
-I
-java:S1481",Remove this unused "product" local variable.(íÙÒÛ8ùÃÚŞ°2
-O
-java:S1481"-Remove this unused "clothing" local variable.(¼Ûÿÿÿÿÿÿ8ùÃÚŞ°2
-R
-java:S1481"0Remove this unused "electronics" local variable.(ÏÕ¥Öÿÿÿÿÿ8ùÃÚŞ°2
-U
-java:S1481"3Remove this unused "organicProduct" local variable.(š¯ë­ùÿÿÿÿ8ùÃÚŞ°2
-P
-java:S1481 ".Remove this unused "furniture" local variable.(¼£ øÿÿÿÿÿ8úÃÚŞ°2
-N
-java:S1481"",Remove this unused "payment" local variable.(Ò»Š³ûÿÿÿÿ8úÃÚŞ°2
-R
-java:S1481#"6Remove this unused "creditCardPayment" local variable.(ÈŒË68úÃÚŞ°2
-T
-java:S1481$"2Remove this unused "payPalPayment" local variable.(î—»€ùÿÿÿÿ8úÃÚŞ°2
-R
-java:S1481%"0Remove this unused "cashPayment" local variable.(˜ÑìÃùÿÿÿÿ8úÃÚŞ°2
-O
-java:S1481'"-Remove this unused "shipping" local variable.(ÓÏ§ùÿÿÿÿ8úÃÚŞ°2
+‚
+java:S18541"?Remove this useless assignment to local variable "vipDiscount".(£ªš¯8öÃÚŞ°2J$51ed48b7-58ef-492e-8ff2-b2a4e504831e
+„
+java:S18540"<Remove this useless assignment to local variable "discount".(ÑûÃšşÿÿÿÿ8÷ÃÚŞ°2J$8f179765-447b-4358-889c-73e3e220e90d
+…
+java:S1854."=Remove this useless assignment to local variable "orderItem".(ô­ÛÕşÿÿÿÿ8÷ÃÚŞ°2J$53e3df37-5af2-49e3-a12d-672c084b96d6
+|
+java:S1854-"9Remove this useless assignment to local variable "order".(Çõ8÷ÃÚŞ°2J$c8b70323-46e0-4522-a6f8-ff8836948ec4
+‹
+java:S1854+"CRemove this useless assignment to local variable "courierShipping".(Ô¦ˆ»ÿÿÿÿÿ8÷ÃÚŞ°2J$d97a7ce1-86a3-4a61-8d15-e88d073b5633
 W
-java:S1481("5Remove this unused "standardShipping" local variable.(Â®ÓÙûÿÿÿÿ8úÃÚŞ°2
-Q
-java:S1481)"4Remove this unused "expressShipping" local variable.(¼Ÿü±8úÃÚŞ°2
-L
-java:S1481+"*Remove this unused "order" local variable.(ŠóÑ®øÿÿÿÿ8úÃÚŞ°2
-P
-java:S1481,".Remove this unused "orderItem" local variable.(ô­ÛÕşÿÿÿÿ8úÃÚŞ°2
-O
-java:S1481."-Remove this unused "discount" local variable.(ÑûÃšşÿÿÿÿ8úÃÚŞ°2
-M
-java:S1481/"0Remove this unused "vipDiscount" local variable.(ü™Ÿ¹8úÃÚŞ°2
+java:S1854*":Remove this useless assignment to local variable "pickUp".(µº––8Òö¢ß°2
+„
+java:S1854)"<Remove this useless assignment to local variable "shipping".(¶Ğ±ÿÿÿÿÿ8÷ÃÚŞ°2J$428de9c1-a356-4938-9a65-634b0d9b0977
+‡
+java:S1854'"?Remove this useless assignment to local variable "cashPayment".(˜ÑìÃùÿÿÿÿ8÷ÃÚŞ°2J$46f855de-40f8-4f35-9079-2d34c5ff8029
+‰
+java:S1854&"ARemove this useless assignment to local variable "payPalPayment".(î—»€ùÿÿÿÿ8÷ÃÚŞ°2J$215c5413-da98-404c-8ed2-292133f844fb
+‡
+java:S1854%"ERemove this useless assignment to local variable "creditCardPayment".(ÈŒË68÷ÃÚŞ°2J$70e2f110-9bb0-4050-aa9f-5d6581c22b61
+ƒ
+java:S1854$";Remove this useless assignment to local variable "payment".(Ò»Š³ûÿÿÿÿ8÷ÃÚŞ°2J$f9d36661-6a7e-4781-8da3-3656b392b671
+…
+java:S1854""=Remove this useless assignment to local variable "furniture".(¼£ øÿÿÿÿÿ8÷ÃÚŞ°2J$13c304c4-25c7-4622-be9b-ce8ac7b942f3
+Š
+java:S1854!"BRemove this useless assignment to local variable "organicProduct".(š¯ë­ùÿÿÿÿ8÷ÃÚŞ°2J$6da6c428-fffb-4c62-87e4-da3cec9990b0
+‡
+java:S1854 "?Remove this useless assignment to local variable "electronics".(ÏÕ¥Öÿÿÿÿÿ8÷ÃÚŞ°2J$b2674ae9-9be2-47cb-a93d-2df2ae7994ad
+„
+java:S1854"<Remove this useless assignment to local variable "clothing".(¼Ûÿÿÿÿÿÿ8÷ÃÚŞ°2J$70dc895a-0e6a-421a-86c1-082d95fce244
+~
+java:S1854";Remove this useless assignment to local variable "product".(íÙÒÛ8÷ÃÚŞ°2J$9fd0de85-20af-4ef3-8380-8452038fc2fa
+„
+java:S1854"<Remove this useless assignment to local variable "customer".(ÇÃ°âüÿÿÿÿ8÷ÃÚŞ°2J$2b0ae5e3-e19f-4568-86e7-89759729c791
+
+java:S1854"9Remove this useless assignment to local variable "admin".(Òöÿğúÿÿÿÿ8÷ÃÚŞ°2J$d974da27-9702-49d9-b468-821af3958847
+{
+java:S1854"8Remove this useless assignment to local variable "user".(­‚èü8÷ÃÚŞ°2J$64cc11fe-144d-484a-959c-687f866df7e0
+{
+java:S1854"8Remove this useless assignment to local variable "shop".(ö™‘ 8÷ÃÚŞ°2J$ee8134f0-4a57-467e-a108-0d2cdfa023e0
+l
+java:S1481")Remove this unused "shop" local variable.(ö™‘ 8ùÃÚŞ°2J$bb6c7e46-4108-488d-9a99-e1036a7f689f
+l
+java:S1481")Remove this unused "user" local variable.(­‚èü8ùÃÚŞ°2J$36b9efe6-ebc3-4020-8941-efd573ddd8f9
+r
+java:S1481"*Remove this unused "admin" local variable.(Òöÿğúÿÿÿÿ8ùÃÚŞ°2J$05e5ec38-37ca-428a-a218-3ae3624ba275
+u
+java:S1481"-Remove this unused "customer" local variable.(ÇÃ°âüÿÿÿÿ8ùÃÚŞ°2J$558a2b98-7a59-48c2-9201-c8ad0e8b5ea4
+o
+java:S1481",Remove this unused "product" local variable.(íÙÒÛ8ùÃÚŞ°2J$dc56bd06-3be1-436a-97fd-7e734f52db5e
+u
+java:S1481"-Remove this unused "clothing" local variable.(¼Ûÿÿÿÿÿÿ8ùÃÚŞ°2J$f7a504ed-a56e-4ddd-bb75-fb8c78c1ddb2
+x
+java:S1481 "0Remove this unused "electronics" local variable.(ÏÕ¥Öÿÿÿÿÿ8ùÃÚŞ°2J$6fc0601f-ce97-4fc0-bb1d-efee00d92aab
+{
+java:S1481!"3Remove this unused "organicProduct" local variable.(š¯ë­ùÿÿÿÿ8ùÃÚŞ°2J$8a567934-85fb-480f-a212-673ee787b6c2
+v
+java:S1481"".Remove this unused "furniture" local variable.(¼£ øÿÿÿÿÿ8úÃÚŞ°2J$33605dbf-a5a0-4cd6-b1a0-b2d12e99d597
+t
+java:S1481$",Remove this unused "payment" local variable.(Ò»Š³ûÿÿÿÿ8úÃÚŞ°2J$26c9fe76-decf-4a42-b232-aacda425e45a
+x
+java:S1481%"6Remove this unused "creditCardPayment" local variable.(ÈŒË68úÃÚŞ°2J$e16be68a-afd5-47d5-a34a-0bfc519333bd
+z
+java:S1481&"2Remove this unused "payPalPayment" local variable.(î—»€ùÿÿÿÿ8úÃÚŞ°2J$289c3f2e-100a-4f4b-9c1d-ee7e759d0cac
+x
+java:S1481'"0Remove this unused "cashPayment" local variable.(˜ÑìÃùÿÿÿÿ8úÃÚŞ°2J$3f86f412-8c0a-4376-a3c6-4f84b4e1637c
+u
+java:S1481)"-Remove this unused "shipping" local variable.(¶Ğ±ÿÿÿÿÿ8úÃÚŞ°2J$d8d54839-364d-4d97-9057-7a0992104322
+H
+java:S1481*"+Remove this unused "pickUp" local variable.(µº––8Õö¢ß°2
+|
+java:S1481+"4Remove this unused "courierShipping" local variable.(Ô¦ˆ»ÿÿÿÿÿ8õßß°2J$eb7f33cc-4376-4cec-830e-ccff34db8c15
+m
+java:S1481-"*Remove this unused "order" local variable.(Çõ8úÃÚŞ°2J$49dd4f03-80b1-4253-ab7f-6bcf7c63a246
+v
+java:S1481.".Remove this unused "orderItem" local variable.(ô­ÛÕşÿÿÿÿ8úÃÚŞ°2J$2df139b1-223a-430c-8f15-439c2e434eaf
+u
+java:S14810"-Remove this unused "discount" local variable.(ÑûÃšşÿÿÿÿ8úÃÚŞ°2J$774c992a-ee1c-4a09-817e-1628b43198bf
+s
+java:S14811"0Remove this unused "vipDiscount" local variable.(£ªš¯8úÃÚŞ°2J$f9eaaba1-6658-4072-8d8e-3e4ef95714dd

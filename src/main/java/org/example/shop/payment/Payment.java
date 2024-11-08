@@ -1,7 +1,7 @@
 package org.example.shop.payment;
 
 public class Payment {
-    private final double amount;
+    private double amount;
 
     public Payment(double amount) {
         this.amount = amount;

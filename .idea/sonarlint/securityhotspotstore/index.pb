@@ -52,3 +52,7 @@ f
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+l
+<src/main/java/org/example/shop/shipping/CourierShipping.java,d\9\d9c555a5120fdd230110ea720dba2e713c337283
+c
+3src/main/java/org/example/shop/shipping/PickUp.java,c\d\cde39983818783b7ae69f6a59e351e0c7d01145c

@@ -1,8 +1,8 @@
 package org.example.shop.products;
 
-public class Furniture extends Product{
+public class Furniture extends Product {
 
-    private String  material;
+    private String material;
 
     public String getMaterial() {
         return material;

@@ -1,18 +1,18 @@
 package org.example.shop.discount;
 
 public class VIPDiscount extends Discount{
-    private String causeOfDiscount;
+    private int vipLevel;
 
-    public String getCauseOfDiscount() {
-        return causeOfDiscount;
+    public int getVipLevel() {
+        return vipLevel;
     }
 
-    public void setCauseOfDiscount(String causeOfDiscount) {
-        this.causeOfDiscount = causeOfDiscount;
+    public void setVipLevel(int vipLevel) {
+        this.vipLevel = vipLevel;
     }
 
-    public VIPDiscount(int discountAmount, String causeOfDiscount) {
-        super(discountAmount);
-        this.causeOfDiscount = causeOfDiscount;
+    public VIPDiscount(int discountAmount, int vipLevel) {
+        super(discountAmount * vipLevel);
+        this.vipLevel = vipLevel;
     }
 }
